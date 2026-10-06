@@ -1,0 +1,26 @@
+[
+    {
+        "name": "R1",
+        "ip": "10.0.0.1",
+        "type": "Router",
+        "protocol": "OSPF"
+    },
+    {
+        "name": "R2",
+        "ip": "10.0.0.2",
+        "type": "Router",
+        "protocol": "BGP"
+    },
+    {
+        "name": "SW1",
+        "ip": "10.0.1.1",
+        "type": "Switch",
+        "ports": 24
+    },
+    {
+        "name": "SW2",
+        "ip": "10.0.1.2",
+        "type": "Switch",
+        "ports": 48
+    }
+]
