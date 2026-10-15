@@ -1,0 +1,7 @@
+Oct 15 10:01:12 server sshd: Failed password for root from 192.168.1.50
+Oct 15 10:01:15 server sshd: Failed password for admin from 10.0.0.5
+Oct 15 10:01:19 server sshd: Failed password for root from 192.168.1.50
+Oct 15 10:02:03 server sshd: Accepted password for prashant from 10.0.0.9
+Oct 15 10:02:30 server sshd: Failed password for test from 192.168.1.50
+Oct 15 10:03:11 server sshd: Failed password for admin from 172.16.0.9
+Oct 15 10:03:45 server sshd: Failed password for root from 172.16.0.9
