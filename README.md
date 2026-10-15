@@ -14,7 +14,10 @@ python/
 │   ├── ...
 │   └── 21_basics_py/    # Modules & Packages
 └── basics_practice/     # Small projects to apply what I've learned
-    └── Password Strength Checker
+│ └── Password Strength Checker
+├── intermediate/
+   ├── re-module/
+      ├── 01_intermediate.py
 ```
 
 ### `basics/`
