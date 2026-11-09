@@ -1,5 +1,4 @@
-# DAY 17 - Log Counter
-
+# Log Counter
 log = [
     "prashant,192.168.1.10,FAILED",
     "admin,10.0.0.5,FAILED",
@@ -71,14 +70,12 @@ failed_count = {
     )
     for ip in unique_ips
 }
-
 # 3. Suspicious IPs - 3 or more failed attempts
 suspicious = {
     ip: count
     for ip, count in failed_count.items()
     if count >= 3
 }
-
 # 4. Output
 print("Unique IPs:", unique_ips)
 print("Failed Count:", failed_count)
